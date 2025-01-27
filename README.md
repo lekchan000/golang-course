@@ -1,2 +1,2 @@
 # golang-course
-The repo for learn Golang
+The repository for learn Golang
